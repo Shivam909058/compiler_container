@@ -1,0 +1,2 @@
+Hello, world!
+Enter a number: You entered: 12
